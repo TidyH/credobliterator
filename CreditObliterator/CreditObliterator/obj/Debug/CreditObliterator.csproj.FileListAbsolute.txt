@@ -1,0 +1,11 @@
+C:\Homework\CIS130\Programs\CreditObliterator\CreditObliterator\bin\Debug\CreditObliterator.exe.config
+C:\Homework\CIS130\Programs\CreditObliterator\CreditObliterator\bin\Debug\CreditObliterator.exe
+C:\Homework\CIS130\Programs\CreditObliterator\CreditObliterator\bin\Debug\CreditObliterator.pdb
+C:\Homework\CIS130\Programs\CreditObliterator\CreditObliterator\obj\Debug\CreditObliterator.csprojAssemblyReference.cache
+C:\Homework\CIS130\Programs\CreditObliterator\CreditObliterator\obj\Debug\CreditObliterator.Properties.Resources.resources
+C:\Homework\CIS130\Programs\CreditObliterator\CreditObliterator\obj\Debug\CreditObliterator.csproj.GenerateResource.cache
+C:\Homework\CIS130\Programs\CreditObliterator\CreditObliterator\obj\Debug\CreditObliterator.csproj.CoreCompileInputs.cache
+C:\Homework\CIS130\Programs\CreditObliterator\CreditObliterator\obj\Debug\CreditObliterator.exe
+C:\Homework\CIS130\Programs\CreditObliterator\CreditObliterator\obj\Debug\CreditObliterator.pdb
+C:\Homework\CIS130\Programs\CreditObliterator\CreditObliterator\obj\Debug\CreditObliterator.addForm.resources
+C:\Homework\CIS130\Programs\CreditObliterator\CreditObliterator\obj\Debug\CreditObliterator.mainPage.resources
